@@ -1,2 +1,2 @@
-# ts_api_platform
-API Test Platform for devops
+# ts_api_test_platform
+API Test Platform for DEVOPS
